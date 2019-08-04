@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "rdflib": "^0.20.3",
+    "solid-auth-client": "^2.3.0",
+    "tailwindcss": "^1.0.6",
     "vue": "^2.6.10"
   },
   "devDependencies": {
+    "@types/rdflib": "^0.20.0",
     "@vue/cli-plugin-babel": "^3.0.0",
     "@vue/cli-plugin-eslint": "^3.0.0",
     "@vue/cli-plugin-typescript": "^3.0.0",
